@@ -16,5 +16,5 @@ resources:
 
 # Image tags - updated automatically by the ecommerce-final-project pipeline
 images:
-  - name: 060647991200.dkr.ecr.us-east-2.amazonaws.com/ecomerce/opensearch
-    newTag: "10"
+  - name: 130661417283 .dkr.ecr.us-east-2.amazonaws.com/ecomerce/opensearch
+    newTag: "4"
