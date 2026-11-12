@@ -34,7 +34,7 @@ spec:
       enableServiceLinks: false
       containers:
         - name: telemetry-docs
-          image: 130661417283 .dkr.ecr.us-east-2.amazonaws.com/ecomerce/telemetry-docs:latest
+          image: 130661417283.dkr.ecr.us-east-2.amazonaws.com/ecomerce/telemetry-docs:latest
           ports:
             - name: http
               containerPort: 8000

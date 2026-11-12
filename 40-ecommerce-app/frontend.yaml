@@ -34,7 +34,7 @@ spec:
       enableServiceLinks: false
       containers:
         - name: frontend
-          image: 130661417283 .dkr.ecr.us-east-2.amazonaws.com/ecomerce/frontend:latest
+          image: 130661417283.dkr.ecr.us-east-2.amazonaws.com/ecomerce/frontend:latest
           ports:
             - name: http
               containerPort: 8080

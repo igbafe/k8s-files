@@ -42,39 +42,39 @@ configMapGenerator:
 
 # Image tags - updated automatically by the ecommerce-final-project pipeline
 images:
-  - name: 130661417283 .dkr.ecr.us-east-2.amazonaws.com/ecomerce/accounting
+  - name: 130661417283.dkr.ecr.us-east-2.amazonaws.com/ecomerce/accounting
     newTag: "4"
-  - name: 130661417283 .dkr.ecr.us-east-2.amazonaws.com/ecomerce/ad
+  - name: 130661417283.dkr.ecr.us-east-2.amazonaws.com/ecomerce/ad
     newTag: "4"
-  - name: 130661417283 .dkr.ecr.us-east-2.amazonaws.com/ecomerce/cart
+  - name: 130661417283.dkr.ecr.us-east-2.amazonaws.com/ecomerce/cart
     newTag: "4"
-  - name: 130661417283 .dkr.ecr.us-east-2.amazonaws.com/ecomerce/checkout
+  - name: 130661417283.dkr.ecr.us-east-2.amazonaws.com/ecomerce/checkout
     newTag: "4"
-  - name: 130661417283 .dkr.ecr.us-east-2.amazonaws.com/ecomerce/currency
+  - name: 130661417283.dkr.ecr.us-east-2.amazonaws.com/ecomerce/currency
     newTag: "4"
-  - name: 130661417283 .dkr.ecr.us-east-2.amazonaws.com/ecomerce/email
+  - name: 130661417283.dkr.ecr.us-east-2.amazonaws.com/ecomerce/email
     newTag: "4"
-  - name: 130661417283 .dkr.ecr.us-east-2.amazonaws.com/ecomerce/flagd-ui
+  - name: 130661417283.dkr.ecr.us-east-2.amazonaws.com/ecomerce/flagd-ui
     newTag: "4"
-  - name: 130661417283 .dkr.ecr.us-east-2.amazonaws.com/ecomerce/fraud-detection
+  - name: 130661417283.dkr.ecr.us-east-2.amazonaws.com/ecomerce/fraud-detection
     newTag: "4"
-  - name: 130661417283 .dkr.ecr.us-east-2.amazonaws.com/ecomerce/frontend
+  - name: 130661417283.dkr.ecr.us-east-2.amazonaws.com/ecomerce/frontend
     newTag: "4"
-  - name: 130661417283 .dkr.ecr.us-east-2.amazonaws.com/ecomerce/frontend-proxy
+  - name: 130661417283.dkr.ecr.us-east-2.amazonaws.com/ecomerce/frontend-proxy
     newTag: "4"
-  - name: 130661417283 .dkr.ecr.us-east-2.amazonaws.com/ecomerce/image-provider
+  - name: 130661417283.dkr.ecr.us-east-2.amazonaws.com/ecomerce/image-provider
     newTag: "4"
-  - name: 130661417283 .dkr.ecr.us-east-2.amazonaws.com/ecomerce/load-generator
+  - name: 130661417283.dkr.ecr.us-east-2.amazonaws.com/ecomerce/load-generator
     newTag: "4"
-  - name: 130661417283 .dkr.ecr.us-east-2.amazonaws.com/ecomerce/payment
+  - name: 130661417283.dkr.ecr.us-east-2.amazonaws.com/ecomerce/payment
     newTag: "4"
-  - name: 130661417283 .dkr.ecr.us-east-2.amazonaws.com/ecomerce/product-catalog
+  - name: 130661417283.dkr.ecr.us-east-2.amazonaws.com/ecomerce/product-catalog
     newTag: "4"
-  - name: 130661417283 .dkr.ecr.us-east-2.amazonaws.com/ecomerce/quote
+  - name: 130661417283.dkr.ecr.us-east-2.amazonaws.com/ecomerce/quote
     newTag: "4"
-  - name: 130661417283 .dkr.ecr.us-east-2.amazonaws.com/ecomerce/recommendation
+  - name: 130661417283.dkr.ecr.us-east-2.amazonaws.com/ecomerce/recommendation
     newTag: "4"
-  - name: 130661417283 .dkr.ecr.us-east-2.amazonaws.com/ecomerce/shipping
+  - name: 130661417283.dkr.ecr.us-east-2.amazonaws.com/ecomerce/shipping
     newTag: "4"
-  - name: 130661417283 .dkr.ecr.us-east-2.amazonaws.com/ecomerce/telemetry-docs
+  - name: 130661417283.dkr.ecr.us-east-2.amazonaws.com/ecomerce/telemetry-docs
     newTag: "4"

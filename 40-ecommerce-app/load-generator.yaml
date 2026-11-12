@@ -34,7 +34,7 @@ spec:
       enableServiceLinks: false
       containers:
         - name: load-generator
-          image: 130661417283 .dkr.ecr.us-east-2.amazonaws.com/ecomerce/load-generator:latest
+          image: 130661417283.dkr.ecr.us-east-2.amazonaws.com/ecomerce/load-generator:latest
           ports:
             - name: http
               containerPort: 8089
